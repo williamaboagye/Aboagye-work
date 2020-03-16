@@ -1,0 +1,16 @@
+{
+  "name": "cheddar",
+  "version": "1.0.0",
+  "description": "work",
+  "main": "cheddar.js",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william aboagye kwame dwamena",
+  "license": "ISC"
+}
